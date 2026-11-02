@@ -1,0 +1,7 @@
+ACTIVEPATH FINAL - TESTE SEMANAL
+
+Carregar TODOS os ficheiros deste pacote diretamente na raiz de um repositório GitHub público. Ativar Pages em main /(root).
+
+Esta versão mantém todas as funcionalidades da versão piloto e acrescenta fotografia de perfil, logótipo limpo e legendas revistas por exercício.
+
+Antes de substituir uma versão com dados reais, exportar Perfil > Cópia JSON.

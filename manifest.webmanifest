@@ -1,0 +1,38 @@
+{
+  "id": "./index.html",
+  "name": "ActivePath | Personal Training & Wellbeing",
+  "short_name": "ActivePath",
+  "description": "Your path. Your pace. Your progress.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f7f9",
+  "theme_color": "#12344d",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "activepath-original-v9-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "activepath-original-v9-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "activepath-original-v9-maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "activepath-original-v9-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
